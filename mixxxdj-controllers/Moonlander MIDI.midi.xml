@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MixxxControllerPreset mixxxVersion="1.6.2+" schemaVersion="1">
+    <info>
+        <name>Moonlander MIDI</name>
+        <description>Moonlander custom mapping</description>
+    </info>
+    <controller id="Midi-Keyboard">
+        <scriptfiles>
+            <file filename="moonlander-midi.js" functionprefix="Moonlander"/>
+        </scriptfiles>
+				<controls/>
+        <outputs/>
+    </controller>
+</MixxxControllerPreset>
